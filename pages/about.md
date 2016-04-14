@@ -1,6 +1,6 @@
 Title: Über uns
 Date: 2013-04-14 17:00 
-Slug: about-page
+Slug: about
 Category: About
 
 Was ist eingentlish dieses „Airsoft“?
