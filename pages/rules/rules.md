@@ -3,67 +3,79 @@ Date: 2013-04-14 17:21
 Slug: rules
 Category: About
 
-Mindestalter
-------
+##Mindestalter
 
-Wer unserem Team beitreten möchte muss das 21. Lebensjahr vollendet haben.
+Jeder Airsoft Interessent über 18, kann sich jederzeit über Facebook oder das Forum bei uns "bewerben". Es ist hierzu keine Formelle Bewerbung nötig, ein kleiner Text mit einer Kurzen Vorstellung genügt hier völlig.
 
-Ausrüstung
-------
 
-Wir spielen mit Airsoft-Waffen über 0,5 Joule. Airsoft-Waffen müssen ein [F] tragen und dürfen keine illegalen Anbauteile besitzen. Ausnahmen stellen i.d.R. Backup AEG/AEP mit weniger als 0,5 Joule dar. Eine Schutzausrüstung für das Gesicht ist Pflicht (Schutzbrille, Maske). Es gilt das Gesetz der Bundesrepublik Deutschland.
-Pflichtbewustsein und Teamplay
-Jeder Spieler sollte sich wie ein Teil des Teams fühlen und auch so handeln, deswegen ist Teamplay sehr wichtig und genauso sollte man auch seine Pflichten und Aufgaben erfüllen. Das Wichtigste ist der Spaß an diesem Sport, nicht das gewinnen!
+## Ausrüstung
 
-Verhalten
-------
+* Airsoft-Waffen unter 0,5 Joule.
+* Airsoft-Waffen über 0,5 Joule.
 
-Es versteht sich von selbst das gute Umgangsformen erwünscht sind. Wir dulden keine rechtsradikalen Ziele oder Aktionen. Unser Team ist unparteiisch.
-Drogen und Alkohol
-Drogen sind allgemein nicht erwünscht. Alkohol ist unmittelbar vor- und während den Spielen untersagt.
+Über 0,5 Joule müssen ein F im Fünfeck tragen und dürfen keine illegalen Anbauteile besitzen. Eine Schutzausrüstung für das Gesicht ist Pflicht (Schutzbrille). Für alle Waffen gilt das Waffen Gesetz der Bundesrepublik Deutschland.
 
-Spielgelände
-------
 
-Es wird nur auf legalen Geländen gespielt.
+## Pflichtbewustsein und Teamplay
 
-Umweltschutz
-------
+Jeder Spieler sollte sich wie ein Teil des Teams fühlen und auch so handeln. Teamplay und Fairness sind für uns das Wichtigste am Hobby.
 
-Egal wo wir spielen, es wir darauf geachtet das Gelände sauber zu hinterlassen. Mitgebrachtes wird auch wieder mitgenommen.
 
-Anfahrt
-------
+## Verhalten
 
-Wenn wir auf Spiele fahren tragen wir zivile Kleidung und unsere Airsoft-Waffen werden vorschriftsmäßig in dafür vorgesehene Koffer oder Taschen transportiert.
+Wir dulden keine rechtsradikalen Ziele oder Aktionen. Solche führen ohne jegliche Diskussion zum sofortigen Ausschluss aus dem Team. Es versteht sich von selbst das gute Umgangsformen erwünscht sind.
 
-Aktivität
-------
 
-Jedes Mitglied des Teams muss sich über Neuigkeiten auf der Homepage informieren und sich aktiv am Forum beteiligen.
+## Drogen und Alkohol
 
-Probezeit
-------
+Drogen sind bei uns generell **nicht geduldet**. Alkohol sollte vor und während der Spiele gemieden werden. Wer sich auf einem Spiel diesbezüglich daneben benimmt fliegt vom Feld und aus dem Team.
 
-Jeder Anwärter muss an einer Probezeit mit einer nicht fest definierten Dauer teilnehmen. Das Team entscheidet wann die Probezeit beendet ist.
 
-Team und Sponsor Patch
-------
+## Spielgelände
+
+Es wird nur auf legalen Geländen gespielt. Wir Distanzieren uns hier deutlich von Teams die sich nicht an die geltenten Gesetzte halten.
+
+
+## Umweltschutz
+
+Egal wo wir spielen, es wird darauf geachtet das Gelände sauber zu hinterlassen. Mitgebrachtes wird auch wieder mitgenommen.
+
+
+## Anfahrt
+
+Wenn wir auf Spiele fahren tragen wir zivile Kleidung und unsere Airsoft-Waffen werden vorschriftsmäßig in dafür vorgesehenen Koffern
+oder Taschen transportiert.
+
+
+## Aktivität
+
+Jedes Mitglied des Teams sollte sich regelmäßig ca. 1-2 mal wöchentlich im Forum über Neuigkeiten und Spiele informieren.
+
+
+## Probezeit
+
+Wir halten eine Kurze Probezeit zum kennenlernen für sinnvoll, im Regelfall erstreckt sich dieser Zeitraum über ein paar Stammtische und Spiele. Eine Feste Zeitspanne halten wir für unnötig. Wenn es passt, dann passt es.
+
+
+## Team- und Sponsor Patch
 
 Unser Team- und Sponsor Patch werden ausgegeben sobald der Anwärter fest als Vollmitglied bei uns aufgenommen wird. Wenn das Mitglied aus dem Team austritt sind die Patches wieder zurückzugeben.
 
-Teambeschaffungen
-------
 
-Alle Beschaffungen die gemeinsam getätigt werden verbleiben im Eigentum des Teams. Ein Austritt aus dem Team rechtfertigt keinen Teilanspruch an der Sache.
+## Teambeschaffungen
 
-Austritt
-------
+Alle Beschaffungen die gemeinsam getätigt werden verbleiben im Eigentum des Teams. Dazu gibt es eine Teamkasse in die ein Kleiner Betrag Monatlich eingezahlt wird. Ein Austritt aus dem Team rechtfertigt keinen Teilanspruch an der Sache.
 
-Es steht jedem Mitglied frei zu jeder Zeit ohne Angabe von Gründen aus dem Team auszutreten. Dies ist dann der Teamführung mitzuteilen.
 
-Regelverstoß
-------
+## Austritt
 
-Jedes Mitglied hat die Regeln zu akzeptieren und einzuhalten. Verstöße werden mit Platzverweis oder im schlimmsten Fall mit Teamausschluss geahndet.
+Es steht jedem Mitglied frei zu jeder Zeit ohne Angabe von Gründen aus dem Team auszutreten.
+Es versteht sich von selbst das Teaminterne Angelegenheiten nicht nach außen getragen werden.
+
+
+## Regelverstoß
+
+Jedes Mitglied hat die Regeln zu akzeptieren und einzuhalten. Verstöße werden
+mit Platzverweis oder im schlimmsten Fall, mit Teamausschluss geahndet.
+
 Alle Fragen oder Kontaktgesuche, die anderer Natur entsprechen, bitte in unserem Forum stellen.
