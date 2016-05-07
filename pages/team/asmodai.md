@@ -4,7 +4,7 @@ Slug: asmodai
 Type: team
 Image: images/asmodai.jpg
 Motto: Facit omnia voluntas
-Designation: HK417 A2, Glock 19
+Designation: HK417 A2, HK USP
 
 ## Data
 
