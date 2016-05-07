@@ -4,7 +4,7 @@ Slug: cats-eye
 Type: team
 Image: images/cats-eye.jpg
 Motto: Oculus exercitus
-Designation: M4, M9
+Designation: SCAR-H, SIG SAUER® P226
 
 ## Common info
 
