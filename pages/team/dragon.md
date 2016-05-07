@@ -4,7 +4,7 @@ Slug: dragon
 Type: team
 Image: images/dragon.jpg
 Motto: Who dares, wins
-Designation: M4, M9
+Designation: HK416, GLOCK 19
 
 ## Data
 
