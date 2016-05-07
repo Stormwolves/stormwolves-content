@@ -1,5 +1,6 @@
 Title: Stormwolves auf der OP Beerzone 4
 Date: 2012-04-25 12:40
+Tags: events
 
 Das Airsoft Team Stormwolves ist dieses Jahr auf der OP Beerzone 4 von 22. Juni bis 24. Juni 2012 auf der Ranch Vranov, nahe Stadt Sokolov, Tschechien, vertreten. Wir kämpfen auf Seiten der Bierbrauer. Wir sind auf das Gelände gespannt und welche Überraschungen dort auf uns warten.
 

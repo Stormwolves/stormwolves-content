@@ -1,5 +1,6 @@
 Title: Unser erstes Airsoft Video
 Date: 2013-05-20 10:00
+Tags: gallery
 
 Wir haben unser erstes Airsoft Video online gestellt.
 

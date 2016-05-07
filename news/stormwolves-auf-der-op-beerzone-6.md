@@ -1,5 +1,6 @@
 Title: Stormwolves auf der OP Beerzone 6
 Date: 2014-02-26 13:00
+Tags: events
 
 Wir freuen uns bekanntgeben zu können dass das Airsoft Team Stormwolves im Jahr 2014 zum dritten Mal in Folge auf der Operation Beerzone vertreten sein werden.
 

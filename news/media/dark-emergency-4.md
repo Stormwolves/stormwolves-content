@@ -2,6 +2,7 @@ Title: Dark Emergency 4
 Date: 2016-05-01 12:00
 Gallery: {photo}dark-emergency-4
 Image: {photo}dark-emergency-4/dark-emergency-4-79.jpg
+Tags: events, gallery, games
 
 An image gallery from the second day of "The Dark Emergency 4" event.
 

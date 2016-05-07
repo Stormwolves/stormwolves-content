@@ -1,10 +1,11 @@
 Title: Dark Emergency 4
 slug: de-4
 Date: 2016-05-03 12:00
+Tags: events, games
 
 The "Dark Emergency 4" event was in total a four day adventure for everyone, who loves to wear camo uniform fire bullets. There was a sort of role playing, although not as strict as initially thought.
 
-As a separate posting, you can find a photo gallery about this event.
+As a separate posting, you can find a [photo gallery about this event](/news/dark-emergency-4.html).
 
 ## Where
 

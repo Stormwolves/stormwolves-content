@@ -1,5 +1,6 @@
 Title: Funvideo Liba
 Date: 2013-07-20 11:00
+Tags: gallery
 
 Beim Fun Game Liba 6 am 20.07.2013 hatte Ranger vom AFM die Idee ein Fun Video zu drehen, in dem wir einen Hasen jagen 😉  aber schaut es euch einfach selbst an.
 

@@ -1,5 +1,6 @@
 Title: Stormwolves auf der OP Beerzone 5
 Date: 2013-02-07 14:17
+Tags: events
 
 Auch im aktuellen Jahr 2013 ist das Airsoft Team Stormwolves auf der Operation Beerzone vertreten. Entgegen ersten Meldungen, es würde 2013 keine Operation stattfinden, wurden wir eines besseren belehrt. Dafür sind wir auch überaus dankbar, dass sich das Blatt gewendet hat und die Op offiziell nun doch stattfindet. Danke an die Organisatoren!
 

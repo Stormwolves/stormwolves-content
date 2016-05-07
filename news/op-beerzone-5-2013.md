@@ -1,5 +1,6 @@
 Title: OP Beerzone 2013 Video
 Date: 2013-09-05 10:00
+Tags: events
 
 Hallo zusammen! Wir sind zurück von der OP Beerzone 5 (2013) auf der Ranch Vranov nähe Sokolov (CZ).
 

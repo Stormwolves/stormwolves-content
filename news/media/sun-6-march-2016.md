@@ -2,6 +2,7 @@ Title: Sonnenberg
 Date: 2016-03-06 20:00
 Gallery: {photo}sun-6-march-2016
 Image: {photo}sun-6-march-2016/20160306_104104.jpg
+Tags: games
 
 War total schlechtes Wetter, viel Matsch. Sind zwar keine Schönwettermenschen aber es machte die Sache etwas schwieriger.
 
