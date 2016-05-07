@@ -1,6 +1,7 @@
-Title: Other things
-Date: 2016-01-01 10:00
+Title: Dark Emergency 4
+Date: 2016-03-01 10:00
 Type: Slider
-Background: bg3.jpg
+Background: slider-3.jpg
+Reference: /news/de-4.html
 
-This is some great text about that
+Read the story. Watch the gallery. Join!

@@ -1,6 +1,7 @@
 Title: Stormwolves Team
 Date: 2015-01-01 10:00
 Type: Slider
-Background: bg1.jpg
+Background: slider-1.jpg
+Reference: /pages/about.html
 
-This is some text here. Hello, Alex!! :-)
+You're welcome!
