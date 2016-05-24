@@ -11,7 +11,6 @@ Gerne heißen wir hier auch Interessenten willkommen. Einfach über das Forum od
 
 Die nächsten Termine sind also:
 
-* 03.05.2016 19:00 Uhr
 * 07.06.2016 19:00 Uhr
 * 05.07.2016 19:00 Uhr
 * 02.08.2016 19:00 Uhr
