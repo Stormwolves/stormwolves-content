@@ -23,7 +23,8 @@ Wir sind eine dynamische Mannschaft im Alter von 21-45 Jahren und sind wohnhaft 
 ## Ausrüstung
 
 Ausgerüstet sind wir mit Waffenscheinfreien Airsoftwaffen von 0,5 bis max 2-2,5 Joule, größtenteils nach US-amerikanischen Vorbild, aber durchaus auch anderer Nationen. Als Waffenaufbau verwenden wir die gängigen Systeme von Federdruck, S-AEG (elektrische Systeme) bis hin zu GBB (Gasbetriebene Waffen)
-Das Spiel, der Sport
+
+## Das Spiel, der Sport
 
 In unserem Team haben Fairplay, Ehrlichkeit und Teamgeist höchste Priorität. Es gibt keine Diktatur, jeder hat ein Mitspracherecht. Jede Mitgliederstimme wird mit Respekt behandelt und die Entscheidungen eines Einzelnen werden in die Gesamtentscheidung mit einbezogen. Das Wichtigste ist aber der Spaß am Airsoft Sport.
 
