@@ -12,7 +12,6 @@ Die nächsten Termine sind also:
 
 ## 2016
 
-* [01.11.2016 19:00 Uhr](http://www.quetschn-bayreuth.de/). Tisch reserviert auf den Namen "Schmidt".
 * 06.12.2016 19:00 Uhr
 
 ## 2017
