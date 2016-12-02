@@ -12,7 +12,7 @@ Die nächsten Termine sind also:
 
 ## 2016
 
-* 06.12.2016 19:00 Uhr
+* [06.12.2016 19:00 Uhr](https://www.tripadvisor.com/Restaurant_Review-g187310-d2174065-Reviews-Chillis-Nuremberg_Middle_Franconia_Franconia_Bavaria.html) Tisch reserviert auf den Namen "Lindig".
 
 ## 2017
 
