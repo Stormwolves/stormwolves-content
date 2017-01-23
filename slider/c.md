@@ -1,7 +1,7 @@
-Title: Dark Emergency 4
-Date: 2016-03-01 10:00
+Title: www.begadi.com
+Date: 2017-01-23 21:16
 Type: Slider
 Background: slider-3.jpg
-Reference: /news/de-4.html
+Reference: http://www.begadi.de/
 
-Read the story. Watch the gallery. Join!
+Airsoft, outdoor and more!

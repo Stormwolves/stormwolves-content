@@ -1,7 +1,7 @@
-Title: Stormwolves Team
-Date: 2015-01-01 10:00
+Title: www.begadi.com
+Date: 2017-01-23 21:16
 Type: Slider
 Background: slider-1.jpg
-Reference: /pages/about.html
+Reference: http://www.begadi.de/
 
-You're welcome!
+Airsoft, outdoor and more!
