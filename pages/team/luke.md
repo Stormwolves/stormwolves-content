@@ -4,7 +4,7 @@ Slug: luke
 Type: team
 Image: images/luke.jpg
 Motto: Nothing moves till I do
-Designation: HK416, GLOCK 19
+Designation: M4, GLOCK 18
 
 ## Data
 

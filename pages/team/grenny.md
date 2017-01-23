@@ -4,7 +4,7 @@ Slug: grenny
 Type: team
 Image: images/grenny.jpg
 Motto: If your guys wanted to fight, why didn't they just get married?
-Designation: HK416, GLOCK 19
+Designation: HK416, CZ P09
 
 ## Data
 
