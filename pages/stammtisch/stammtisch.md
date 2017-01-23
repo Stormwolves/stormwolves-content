@@ -10,10 +10,6 @@ Gerne heißen wir hier auch Interessenten willkommen. Einfach über das Forum od
 
 Die nächsten Termine sind also:
 
-## 2016
-
-* 06.12.2016 19:00 Uhr
-
 ## 2017
 
 * 03.01, 19:00 Uhr
