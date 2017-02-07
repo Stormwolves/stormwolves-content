@@ -12,8 +12,7 @@ Die nächsten Termine sind also:
 
 ## 2017
 
-* 03.01, 19:00 Uhr
-* 07.02, 19:00 Uhr
+* [07.02, 19:00 Uhr](https://www.tripadvisor.com/Restaurant_Review-g187310-d2174065-Reviews-Chillis-Nuremberg_Middle_Franconia_Franconia_Bavaria.html) Tisch reserviert auf den Namen "Bo".
 * 07.03, 19:00 Uhr
 * 04.04, 19:00 Uhr
 * 02.05, 19:00 Uhr
