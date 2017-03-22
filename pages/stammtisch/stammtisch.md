@@ -12,7 +12,6 @@ Die nächsten Termine sind also:
 
 ## 2017
 
-* [07.03, 19:00 Uhr](http://www.oskar-bayreuth.de/) Tisch reserviert auf den Namen "Achim Ried".
 * 04.04, 19:00 Uhr
 * 02.05, 19:00 Uhr
 * 06.06, 19:00 Uhr
