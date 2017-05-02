@@ -12,7 +12,7 @@ Die nächsten Termine sind also:
 
 ## 2017
 
-* 02.05, 19:00 Uhr
+* [02.05, 19:00 Uhr](http://www.nordbayern.de/essen-trinken/gastro-guide/tapas-1.2905935) ("Tapas", Fürth). Tisch reserviert auf den Namen "Vörste".
 * 06.06, 19:00 Uhr
 * 04.07, 19:00 Uhr
 * 01.08, 19:00 Uhr
