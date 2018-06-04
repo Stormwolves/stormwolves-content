@@ -10,13 +10,6 @@ Gerne heißen wir hier auch Interessenten willkommen. Einfach über das Forum od
 
 Die nächsten Termine sind also:
 
-## 2017
+## 2018
 
-* [02.05, 19:00 Uhr](http://www.nordbayern.de/essen-trinken/gastro-guide/tapas-1.2905935) ("Tapas", Fürth). Tisch reserviert auf den Namen "Vörste".
-* 06.06, 19:00 Uhr
-* 04.07, 19:00 Uhr
-* 01.08, 19:00 Uhr
-* 05.09, 19:00 Uhr
-* 03.10, 19:00 Uhr
-* 07.11, 19:00 Uhr
-* 05.12, 19:00 Uhr
+* [05.06, 19:00 Uhr](https://goo.gl/maps/eYD44LZDuVH2) ("KurturGarten", Königstraße 93, 90402 Nürnberg).
